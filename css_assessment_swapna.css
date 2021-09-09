@@ -1,0 +1,65 @@
+.para {
+  font-weight: bold;
+  line-height: 2;
+}
+h2 {
+  margin-left: 20px;
+  color: #8ee5d1;
+}
+#first {
+  float: right;
+  max-height: 250px;
+  max-width: 250px;
+  margin: 80px 50px 0px 0px;
+}
+#flex1 {
+  display: flex;
+  justify-content: space-around;
+  background-color: #f4f7fa;
+  flex-shrink: 1;
+}
+ul {
+  list-style-type: none;
+}
+#bold {
+  font-weight: bold;
+}
+li {
+  display: inline-block;
+}
+p {
+  margin: 0px 0px 0px 16px;
+}
+button {
+  background-color: #8ee5d1;
+  border-color: #8ee5d1;
+  border-radius: 1em;
+  border: none;
+}
+#second {
+  float: right;
+  margin-top: 0px;
+}
+#email {
+  border-radius: 0.2em;
+  border: 1px solid;
+}
+
+.setcolor {
+  background-color: #f4f7fa;
+}
+.flex {
+  display: flex;
+  justify-content: space-between;
+  flex-shrink: 1;
+  flex-direction: column;
+}
+h4 {
+  margin-left: 20px;
+}
+h1 {
+  text-align: center;
+}
+#setMail {
+  background-color: #f4f7fa;
+}
